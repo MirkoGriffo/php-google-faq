@@ -1,0 +1,29 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+.blu {
+  color: #3367d6 !important;
+}
+.nav {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.nav li {
+  margin: 15px;
+  color: gray;
+}
+
+.navbar {
+  border-bottom: 1px solid gray;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-top: 80px;
+}
